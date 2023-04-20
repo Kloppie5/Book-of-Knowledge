@@ -120,3 +120,8 @@
   padding: 0 0 10px;
   text-indent: 5px;
 }
+
+a {
+  all: unset;
+  cursor: pointer;
+}
